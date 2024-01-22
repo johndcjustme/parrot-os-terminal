@@ -1,3 +1,5 @@
+![Screenshot](1_5aRyV518BCG_Mu1l_fKBMw.png)
+
 # parrot-os-terminal
 
 1. Navigate to your Home folder and r-click then find the option "Open in Terminal" or something like that.
