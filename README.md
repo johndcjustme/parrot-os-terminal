@@ -8,7 +8,7 @@ sudo cp .bashrc .bashrc-copy && nano .bashrc
 ~~~
 
 3. Remove the existing script and copy the code from the repository and paste then save.
-4. Close all terminal and open a new one, and you'll seeee Woallllaaaaaahhhh!
+4. Close all terminal and open a new one, and you'll seeee Wallllaaaaaahhhh!
 
 
 
